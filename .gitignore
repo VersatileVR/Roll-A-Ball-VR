@@ -26,4 +26,4 @@ ExportedObj/
 sysinfo.txt
 
 # Other crap
-.DS_Store
+*.DS_Store
